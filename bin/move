@@ -8,7 +8,6 @@ puts "Where would you like to go?"
 input=gets.strip
 input_to_index(input)
 def move(board, index, character = "X")
-input_to_index(input)= character
 end
 
 
