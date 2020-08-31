@@ -7,8 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 input=gets.strip
 input_to_index(input)
-def move(board,input_to_index(input), X)
-end
+move(board,input_to_index(input), X)
 display_board(board)
 
 
